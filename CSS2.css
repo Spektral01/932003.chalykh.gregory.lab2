@@ -1,0 +1,51 @@
+body
+{
+	margin: 0;
+  padding: 0;
+}
+
+#Left
+{
+	padding: 2px;
+	margin: 0px 0 0 ;
+	width: 25%;
+	background-color: #C8FC98;
+	line-height: 1.4em;
+	float: left;
+}
+header
+{
+	margin: 0px 0px 0px;
+	background-color: lightgrey;
+	padding: 5px;
+}
+#Marg
+{
+	margin: 0px 5px 0px;
+}
+#Content
+{
+	line-height: 1.4em;
+	margin: 0 5px 0;
+	margin: -15px 200px 0 26%;
+}
+#Right
+{
+	float: right;
+	width: 200px;
+	margin: 0px 0 0;
+	background-color: #ebf53d;
+}
+footer
+{
+	background-color:black;
+	color: yellow;
+	margin: 0px 0px;
+	padding: 0 49% 0;
+	position: fixed;
+	bottom: 0;
+}
+a
+{
+	color: yellow;
+}

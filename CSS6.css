@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+  
+}
+#Fir
+{
+  margin-right: auto;
+  margin-left: auto;
+  width: 40%;
+   color: black;
+  background-color:white;
+  line-height: 1.4em;
+}
+#Sec
+{
+  padding: 2%;
+  margin-right: auto;
+  margin-left: auto;
+  width: 35%;
+   color: black;
+  background-color:white;
+  line-height: 1.4em;
+  border:10px solid blue;
+}

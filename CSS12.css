@@ -1,0 +1,23 @@
+#Rela
+{
+	background-color: #5792ff;
+	display: table;
+	border:2px solid green;
+	padding: 1px;
+}
+
+#Cont
+{
+	background-color: gray;
+	position: relative;
+	margin: 0 0 0 150px;
+}
+#Nav
+{
+	background-color: #fcdf7e;
+	position: absolute;
+	top: 0;
+	width: 150px;
+	margin: 10px 0 0;
+}
+
