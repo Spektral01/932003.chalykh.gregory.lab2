@@ -7,19 +7,18 @@ body{
   margin-right: auto;
   margin-left: auto;
   width: 45%;
-   color: white;
+  color: white;
   background-color:green;
   line-height: 1.4em;
 }
 #Sec
 {
   padding: 3%;
-    margin-right: auto;
+  border:5px solid blue;
+  margin-right: auto;
   margin-left: auto;
   width: 50%;
-   color: white;
+  color: white;
   background-color:blue;
   line-height: 1.4em;
-  border: white;
-  border-width: 10px;
 }

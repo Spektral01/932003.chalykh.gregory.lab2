@@ -1,13 +1,19 @@
 body{
   margin: 0;
-  
+  display: flex;
+  justify-content:center;
+
 }
-div
+
+.fle
 {
-  margin-right: auto;
-  margin-left: auto;
-  width: 50%;
-   color: white;
+  
+  width: 700px;
+}
+p
+{
+
+  color: white;
   background-color:blue;
   line-height: 1.4em;
 }

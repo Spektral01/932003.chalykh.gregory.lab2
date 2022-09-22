@@ -1,0 +1,57 @@
+body
+{
+	margin: 0;
+}
+
+.Rela
+{
+	border: 2px solid green;
+	background-color: blue;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0;
+}
+
+
+#Nav
+{
+
+	background-color: yellow;
+	float: left;
+	height: 80px;
+	width: 170px;
+
+
+
+}
+@media (max-width: 800px)
+{
+	#Nav
+	{
+		background-color: yellow;	
+		height: 1em;
+		width: 100%;
+		margin: 30px 0 30px;
+
+
+	}
+	ul
+	{
+		margin: 0px;
+
+	}
+	
+	li
+	{
+		list-style-type: none;
+		display: inline;
+	}
+
+}
+
+#Cont
+{	
+	margin: 0 -15% 0 0;
+	width: 100%;
+	background-color: grey;
+}

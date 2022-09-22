@@ -1,23 +1,28 @@
-#Rela
+body
 {
-	background-color: #5792ff;
-	display: table;
-	border:2px solid green;
-	padding: 1px;
+	margin: 0;
+}
+
+.Rela
+{
+	border: 2px solid green;
+	background-color: blue;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#Nav
+{
+
+	background-color: yellow;
+	width: 147px;
+	height: 90px;
+	margin-right:2px ;
+	float: left;
 }
 
 #Cont
-{
-	background-color: gray;
-	position: relative;
-	margin: 0 0 0 150px;
+{	
+	width: 90%;
+	background-color: grey;
 }
-#Nav
-{
-	background-color: #fcdf7e;
-	position: absolute;
-	top: 0;
-	width: 150px;
-	margin: 10px 0 0;
-}
-
